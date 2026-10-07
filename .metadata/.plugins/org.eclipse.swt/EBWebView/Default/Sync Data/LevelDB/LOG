@@ -1,2 +1,3 @@
-2026/10/05-12:42:17.394 45fc Creating DB C:\IntershipProject\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB since it was missing.
-2026/10/05-12:42:17.518 45fc Reusing MANIFEST C:\IntershipProject\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/10/07-16:48:28.870 16fc Reusing MANIFEST C:\IntershipProject\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB/MANIFEST-000001
+2026/10/07-16:48:28.871 16fc Recovering log #3
+2026/10/07-16:48:28.871 16fc Reusing old log C:\IntershipProject\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Sync Data\LevelDB/000003.log 

@@ -1,2 +1,3 @@
-2026/10/05-12:42:17.153 4fb0 Creating DB C:\IntershipProject\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database since it was missing.
-2026/10/05-12:42:17.262 4fb0 Reusing MANIFEST C:\IntershipProject\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database/MANIFEST-000001
+2026/10/07-16:48:28.863 4858 Reusing MANIFEST C:\IntershipProject\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database/MANIFEST-000001
+2026/10/07-16:48:28.864 4858 Recovering log #3
+2026/10/07-16:48:28.864 4858 Reusing old log C:\IntershipProject\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Site Characteristics Database/000003.log 
